@@ -14,3 +14,4 @@ Start the script with the following command.
 ```
 python neo-ticker.py
 ```
+![Alt text](scrn_neo.png?raw=true "scrn_neo")
