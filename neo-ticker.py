@@ -82,7 +82,7 @@ def refresh():
     total = '$%s' %(float(price_usd) * float(nhold))
 
     # %change green if positive, red if negative
-    if change_24h > 0:
+    if change_24h > '0':
         rg = 'green'
     else:
         rg = 'red'
