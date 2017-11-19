@@ -10,7 +10,7 @@ Open the script with your favorite editor. Search for the variable nhold and fil
 ```
 nhold = 300
 ```
-Start the script with the following command.
+Start the script with the following command. Be sure to have the images in the same folder!
 ```
 python neo-ticker.py
 ```
