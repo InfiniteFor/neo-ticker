@@ -3,13 +3,15 @@
 # version:        1.01
 # dependencies:   pillow, requests
 
+import sys
 import requests
 import json
 from Tkinter import *
 from PIL import Image, ImageTk
 
+
 # enter amount of neo you hold
-nhold = 300
+nhold = sys.argv[1]
 fullscreen = False
 
 # window configuration

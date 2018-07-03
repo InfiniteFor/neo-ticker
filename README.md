@@ -6,12 +6,8 @@ A simple python NEO currency price ticker.
 pip install requests pillow
 ```
 ## Usage:
-Open the script with your favorite editor. Search for the variable nhold and fill in the amount of NEO you hold.
+Start the script with the amount you hold as an argument (for example 250).
 ```
-nhold = 300
-```
-Start the script with the following command. Be sure to have the images in the same folder!
-```
-python neo-ticker.py
+python neo-ticker.py 250
 ```
 ![Alt text](scrn_neo.png?raw=true "scrn_neo")
