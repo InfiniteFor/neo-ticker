@@ -10,7 +10,7 @@ from Tkinter import *
 from PIL import Image, ImageTk
 
 
-# enter amount of neo you hold
+# amount of neo you hold
 nhold = sys.argv[1]
 fullscreen = False
 
